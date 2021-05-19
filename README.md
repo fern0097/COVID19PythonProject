@@ -20,4 +20,8 @@ This project using CREATE, READ, UPDATE, DELETE (CRUD) with Python.
 
 ## Dashboard
 
+![Dashboard](https://user-images.githubusercontent.com/35514180/118882100-ca781b80-b8c1-11eb-95e9-08abc5f5cb04.png)
+
+
+
 
