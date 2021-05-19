@@ -22,6 +22,14 @@ This project using CREATE, READ, UPDATE, DELETE (CRUD) with Python.
 
 ![Dashboard](https://user-images.githubusercontent.com/35514180/118882100-ca781b80-b8c1-11eb-95e9-08abc5f5cb04.png)
 
+## Options
+
+![Options](https://user-images.githubusercontent.com/35514180/118882589-58540680-b8c2-11eb-9b3a-76bd8bfeceeb.png)
+
+## Records
+
+![Records](https://user-images.githubusercontent.com/35514180/118882591-58ec9d00-b8c2-11eb-8f1f-309c6e7b146d.png)
+
 
 
 
