@@ -4,6 +4,7 @@ Covid19 Python Project - This project using CREATE, READ, UPDATE, DELETE (CRUD) 
 - I am using Flask is a micro web framework here how to install: 
 
 **IDE:** Visual Studio Code
+
 **Install:** https://flask.palletsprojects.com/en/1.1.x/installation/#install-flask
 
 **Quickstart:** https://flask.palletsprojects.com/en/1.1.x/quickstart/  
