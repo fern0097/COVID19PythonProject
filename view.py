@@ -15,7 +15,7 @@ html = """
     <!-- Bootstrap initilization -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-    <title>Wilker Fernandes de Sousa - Programming Language Research Project Assignment 2</title>
+    <title>Wilker Fernandes de Sousa - Python Programming Language Project</title>
 
   </head>
   <body>
@@ -75,7 +75,7 @@ def displayDashboard():
 <div class="jumbotron">
   <h1 class="display-4">Welcome to my Python Project</h1>
   <p class="lead">
-  Assignment 3 project made by Wilker Fernandes de Sousa.
+  Project made by Wilker Fernandes de Sousa.
   </p>
 </div>
 
@@ -114,7 +114,7 @@ def listRecords(result):
     table_rows = ''
     counter = 1
     for key, dict in result:
-        if(counter % 11 == 0): #topfall
+        if(counter % 11 == 0):
             table_rows += f"""
                <tr><td colspan="11"><b>Wilker Fernande de Sousa</b></td></tr>
             """
