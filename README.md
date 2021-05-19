@@ -1,5 +1,8 @@
 # COVID19PythonProject
-Covid19 Python Project - This project using CREATE, READ, UPDATE, DELETE (CRUD) with Python.
+
+## Covid19 Python Project 
+
+This project using CREATE, READ, UPDATE, DELETE (CRUD) with Python.
 
 - I am using Flask is a micro web framework here how to install: 
 
@@ -13,3 +16,8 @@ Covid19 Python Project - This project using CREATE, READ, UPDATE, DELETE (CRUD) 
 - Can create, update, and delete a record. 
 - I am using Boostrap has my dashboard and styling for learning purpose.
 - I have used 'html' as well in the file view.py.
+- The records can be sorted.
+
+## Dashboard
+
+
