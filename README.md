@@ -8,7 +8,9 @@ This project using CREATE, READ, UPDATE, DELETE (CRUD) with Python.
 
 **IDE:** Visual Studio Code
 
-**Install:** https://flask.palletsprojects.com/en/1.1.x/installation/#install-flask
+**install tabulate:** https://pypi.org/project/tabulate/
+
+**Install Flask:** https://flask.palletsprojects.com/en/1.1.x/installation/#install-flask
 
 **Quickstart:** https://flask.palletsprojects.com/en/1.1.x/quickstart/  
 
